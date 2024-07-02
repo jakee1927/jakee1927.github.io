@@ -143,4 +143,9 @@ body, html {
     .projects-row {
         margin: 0em 0em;
     }
+    .text-center {
+        display: grid;
+        grid-template-rows: 1fr auto auto;
+    }
+    
 }
