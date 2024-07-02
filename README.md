@@ -1,0 +1,1 @@
+The first iteration of my personal website, writen in pure HTML and CSS. Some elements of the site are built off of Bootstrap 5, but for the most part it's all custom CSS. I'll continue to update the site as I get better at JavaScript.
